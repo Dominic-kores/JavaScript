@@ -1,4 +1,3 @@
-# Week-day-1-Tasks
 
 # Week 2 Day 1 JavaScript Assignment
 
